@@ -1,6 +1,6 @@
-# Mastering Machine Learning with PySpark - Loan Prediction
+# PySpark-Powered Loan Prediction: Machine Learning Classification
 
-**Complete Video Tutorial:** https://youtu.be/2OAa7lX8dxo
+
 
 # Project Information
 
@@ -41,8 +41,6 @@ Loan_Amount_Term | Term of loan in months
 Credit_History | credit history meets guidelines
 Property_Area | Urban/ Semi Urban/ Rural
 Loan_Status | Loan approved (Y/N)
-
-**Download link:** https://www.kaggle.com/altruistdelhite04/loan-prediction-problem-dataset
 
 # Libraries
 
